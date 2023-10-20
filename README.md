@@ -4,6 +4,8 @@ reformuler:Bienvenue dans l'application Star, où vous pouvez explorer une colle
 ## Capture d'écran
 ### Aperçu
 ![a1](https://github.com/WiamMerjane/star/assets/116950948/981ea69e-b718-4480-b326-ae6aced85f46)
+
+
 Découvrez notre application Star, qui vous propose une collection de célébrités, chacune affichant son propre RatingBar, ainsi que quelques détails sur chacune d'entre elles.
 
 
