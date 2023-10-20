@@ -7,7 +7,8 @@ reformuler:Bienvenue dans l'application Star, où vous pouvez explorer une colle
 Découvrez notre application Star, qui vous propose une collection de célébrités, chacune affichant son propre RatingBar, ainsi que quelques détails sur chacune d'entre elles.
 
 
-![a0](https://github.com/WiamMerjane/star/assets/116950948/f2893ec2-7662-45a6-8b59-840fe47e8953)
+![a3](https://github.com/WiamMerjane/star/assets/116950948/2729e435-9b37-4d86-aae5-c7465baa319e)
+
 Explorez notre galerie de célébrités, où chaque étoile est accompagnée de son propre RatingBar pour refléter son niveau de popularité.
 
 
